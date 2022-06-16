@@ -1,0 +1,39 @@
+start
+SPEED 250;
+PLAY
+OCT 5 _2C _2D
+OCT 4 _4A _2R
+         _3A _1G _1F _1E
+         _6F
+         _2R _1F _1G _1A OCT 5 _1C
+         _4D _2R
+         _3D _1E _1C OCT 4 _1As
+OCT 5 _6C
+OCT 4 _4R _1A OCT 5 _1C
+         _4D _2R
+         _2D _2E _2D
+         _3C _1D OCT 4 _1A _1G
+         _3F _1R _1D _1A
+         _3G _1R _1F _1A
+         _3G _1R _2F
+         _6F
+---
+PLAY
+         _2R _2A OCT 5 _2C
+         _6D
+         _2R _2E OCT 4 _2A
+         OCT 5 _6C
+         _2R OCT 4 _2Fs OCT 5 _2C
+         OCT 4 _6As
+         OCT 5 _4D  OCT 4 _2A
+         OCT 5 _6C
+         OCT 4 _2R _2A OCT 5 _2C
+         _6D
+         _2D _3E _2D
+         _4E OCT 4 _2A
+         OCT 5 _4C _2C
+         _4D _2F
+         _4A _2F
+         _6G
+---
+end

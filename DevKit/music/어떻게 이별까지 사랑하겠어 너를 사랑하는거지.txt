@@ -1,0 +1,8 @@
+start
+SPEED 230;
+PLAY
+OCT 4 _1D _1B OCT 5 _1C _2D _2D _1C _3C _2R
+        _2C OCT4 _1B _2G _3A _3B _1R _3A _1R
+        _3G _1R _3B _1R OCT 5 _4D _2D _3D _3C
+---
+end

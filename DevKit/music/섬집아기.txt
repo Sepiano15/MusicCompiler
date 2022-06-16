@@ -1,0 +1,9 @@
+start
+SPEED 270;
+PLAY
+OCT 5 _2C _2F _2G _2A _2G _2F _6G _6R _3A _1R _2F _2G _2F _2D _6C _6R
+         _2C _2F _2G _2A _2G _2F _6G _6R _4A _1R _2F _2G _2D _2E _6F _6R
+         _2G _2G _2G _2F _2G _2A _6F _6R OCT 6 _4D _2D _4C OCT 5 _2A _6G _6R
+OCT6  _2C OCT 5 _2A _2G _2F _2G _2A _6D _6R _4C _2F _2E _2F _2G _6F
+---
+end

@@ -1,0 +1,13 @@
+start
+SPEED 250;
+REP
+OCT 5 _2D _2E _4Fs _2E _2D _2Cs OCT 4 _2B _2A _6B _3R OCT 5 _2D _2E _4Fs _2Fs _2D _2E _4A _6B _3R
+         _2B OCT 6 _2Cs _4D _2E _2D _2Cs OCT 5 _4B _1R _1A _3B _1Fs _4Fs _4R _2E _2D _4D _2D _2Fs _2E _4D _1R _3Cs OCT 4 _6B _3R
+---
+PLAY
+OCT 5 _2Fs _2G _2A _4B _2R _2B _2A _2G _3Fs _1E _6Fs _3R _1A OCT 6 _2D _2Fs _2D _6E _3R _1E _2D _1E _2Fs _2D _1Cs OCT 5 _4B _3R
+         OCT 6 _2Fs _1Fs _1E _2D OCT 5 _4B _2R _2B _2A _2G _2Fs _2E _3Fs _1R _3A _1R OCT 6 _4D _2R OCT 5 _1B OCT 6 _2D _6E _3R _1E _2D _1E _2Fs _2D _1Cs OCT 5 _4B _3R
+OCT 6 _2Fs _1Fs _1E _2D OCT 5 _4B _2R _2B _2A _2G _3Fs _1E _6Fs _3R _1A OCT 6 _2D _2Fs _2D _6E _3R _1E _2D _1E _2Fs _2D _1Cs OCT 5 _4B _3R
+         OCT 6 _2Fs _1Fs _1E _2D OCT 5 _4B _2R _2B _2A _2G _2Fs _2E _3Fs _1R _3A _1R OCT 6 _4D _2R OCT 5 _1B OCT 6 _2D _6E _3R _1E _2D _1E _2Fs _2D _1Cs OCT 5 _4B _3R
+---
+end
